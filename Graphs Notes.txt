@@ -1,0 +1,12 @@
+Top 10 Cities of each Total composite, Map
+3 Composite score maps
+
+
+Cost/SQFT vs. Med Housing Cost
+HC Cost vs. Ensemble Rank
+Ensemble vs. Cost/SQFT Rank (TX and NE?)
+HC Outcomes vs. HC Cost
+HC OutComes vs. Med. Housing Cost
+
+Clustering:
+Our top picks ended up not clustered together.
